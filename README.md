@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swewrozka
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning data virtualization, concurrency, and synchronization in C
+- 🌱 I’m currently learning data virtualization, concurrency, synchronization, memory & device management, and other basic OS principles in C
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: https://www.linkedin.com/in/e-fay-johnston/
 
