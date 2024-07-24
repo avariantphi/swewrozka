@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @swewrozka. Call me Fay.
-- 👀 I’m interested in AI & Cloud computing techniques.
-- 🌱 I’m currently learning Azure AI Fundamentals, Data Structures, and all the things cloud.
+- 👋 Hi, I’m @swewrozka. Pronounced "swee-vrouzh-ka".
+- 👀 I’m interested in AI & Cloud computing techniques for web applications.
+- 🌱 I’m currently learning Web frameworks all the things full-stack
 - 💞️ I’m looking to collaborate on anything that helps distribute technology to the people for the greater good of society.
-- 📫 How to reach me: https://www.linkedin.com/in/e-fay-johnston/
+- 📫 How to reach me: discord @avatiantphi
 
 <!---
 swewrozka/swewrozka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
